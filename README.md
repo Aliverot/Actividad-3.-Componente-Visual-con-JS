@@ -141,7 +141,6 @@ Al hacer clic sobre una imagen, se abre el visor en grande con flechas para camb
 
 ## Video demostrativo
 
-Pendiente por agregar.
+[![Demostracion de la libreria](https://img.youtube.com/vi/UMHEU1W4MOo/0.jpg)](https://www.youtube.com/watch?v=UMHEU1W4MOo)
 
-<!-- Aqui se puede colocar despues el enlace del video de YouTube o Drive. -->
 
