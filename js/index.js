@@ -1,0 +1,1 @@
+LightboxGaleria.crear(".imagen-galeria");
