@@ -10,7 +10,7 @@
 
 ## Que problema resuelve
 
-Cuando una pagina tiene varias imagenes, muchas veces se ven pequenas y el usuario no puede revisarlas comodamente.
+Cuando una pagina tiene varias imagenes, muchas veces se ven pequeñas y el usuario no puede revisarlas comodamente.
 LightboxGaleria resuelve este problema mostrando la imagen seleccionada en grande, sobre un fondo oscuro, con botones para avanzar o regresar entre las imagenes de la galeria.
 
 Este componente es reutilizable porque no depende de imagenes especificas. Solo se le indica que clase CSS debe buscar y automaticamente agrupa esas imagenes para mostrarlas en el visor.
@@ -128,17 +128,16 @@ A continuacion se muestra el funcionamiento del componente visual.
 
 Vista inicial de la pagina con las miniaturas de la galeria.
 
-![Galeria de imagenes](img/captura-galeria.png)
+![Galeria de imagenes]<img width="2557" height="1278" alt="image" src="https://github.com/user-attachments/assets/ca4ba3f4-9d2c-4b27-bdce-5523ae44b632" />
+
 
 ### Lightbox funcionando
 
 Al hacer clic sobre una imagen, se abre el visor en grande con flechas para cambiar de imagen.
 
-![Lightbox funcionando](img/captura-lightbox.png)
+![Lightbox funcionando]<img width="2557" height="1271" alt="image" src="https://github.com/user-attachments/assets/e75b793c-e75d-4d23-a3f0-060d8daa6db7" />
 
-### Consola
-
-No aplica en este componente, porque su funcionamiento principal es visual e interactivo. No depende de mensajes en consola para demostrar su uso.
+<img width="2553" height="1272" alt="image" src="https://github.com/user-attachments/assets/5ae056bd-a30e-4826-b0b6-b30ef1cc7e0c" />
 
 ## Video demostrativo
 
